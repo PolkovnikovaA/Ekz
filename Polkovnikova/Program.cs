@@ -9,7 +9,7 @@ namespace Polkovnikova
     /// <summary>
     /// Основной класс приложения
     /// </summary>
-    internal class Program
+    public class Program
     {
         /// <summary>
         /// Стартовый метод приложения
@@ -20,5 +20,10 @@ namespace Polkovnikova
         static void Main(string[] args)
         {
         }
+    }
+
+    public class Mat_model
+    {
+
     }
 }
