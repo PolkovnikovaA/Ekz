@@ -48,7 +48,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Diagramm\Диаграммы.docx" />
     <None Include="Zadanie\вариант 1 модульный экзамен.pdf" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
