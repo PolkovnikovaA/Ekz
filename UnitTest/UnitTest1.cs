@@ -11,7 +11,7 @@ namespace UnitTest
         public void Sum20_and50_return70()
         {
 
-            Polkovnikova.Test program = new Polkovnikova.Test();
+            Polkovnikova.Mat_model program = new Polkovnikova.Mat_model();
             program.Sum(20, 50);
         }
     }
